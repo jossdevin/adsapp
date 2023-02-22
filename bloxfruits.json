@@ -3,15 +3,15 @@
   [
     {
       "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads":"UNITY",
+      "select_backup_ads":"STARTAPP",
       "main_ads_banner": "",
       "main_ads_intertitial":"",
       "native_for_admob":"",
       "backup_ads_banner":"",
-      "backup_ads_intertitial":"Interstitial_Android",
+      "backup_ads_intertitial":"",
       "interval_intertitial": 0,
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"5175515",
+      "initialize_sdk_backup_ads":"201591250",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
