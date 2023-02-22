@@ -8,7 +8,7 @@
       "main_ads_intertitial":"",
       "native_for_admob":"",
       "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_intertitial":"Interstitial_Android",
       "interval_intertitial": 0,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"5175515",
