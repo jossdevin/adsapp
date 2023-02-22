@@ -3,7 +3,7 @@
   [
     {
       "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads":"STARTAPP",
+      "select_backup_ads":"",
       "main_ads_banner": "",
       "main_ads_intertitial":"",
       "native_for_admob":"",
@@ -11,7 +11,7 @@
       "backup_ads_intertitial":"",
       "interval_intertitial": 0,
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"201591250",
+      "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
